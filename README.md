@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skills.syvixor.com/api/icons?i=python,java,javascript,spring,flask,fastapi,graphql,django,jest,spark,amazonwebservice)](https://github.com/syvixor/skills-icons)
+[![My Skills](https://skills.syvixor.com/api/icons?i=python,java,javascript,spring,flask,fastapi,graphql,django,jest,spark,amazonwebservices,dbt,snowflake,hadoop,kafka,airflow,docker,kubernetes,terraform,grafana,tableau,powerbi,git,linux,gitlab,snaplogic,mysql,mogodb,postgresql,)](https://github.com/syvixor/skills-icons)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NithinBommena&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
